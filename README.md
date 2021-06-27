@@ -7,7 +7,7 @@ IEEE Summer Internship
                      Implementation of Blockchain to ensure privacy and security in a remote healthcare system.
 
                                                                                                  --- Abhishek Pal
-                                                   (Languages Used: Java,Software Used: Remix)
+                                                   (Languages Used: Java, Software Used: Remix)
 
          
          (A review of the different types of attacks at different layers of an IoT-enabled Skin Monitoring System)
@@ -34,8 +34,10 @@ Some more physical attacks can be:
 
 
 
-Network Layer: In this we send the data (which we collected from perception layer) to network devices like servers, wifi, different IOT hubs etc…
+Network Layer: In this we send the data (which we collected from perception layer) to network devices like servers, wifi, different IOT hubs etc
+
  Some kinds of attacks in network layer are:
+ 
 	Hello Flood Attack: It causes high traffic in channels by congesting the channel with a number of useless messages.
 	Selective Forwarding: In this a node sends few selective nodes instead of all the nodes.
 	Acknowledgement Flooding Attack: In this a malicious node sends false information to the neighbouring nodes.
